@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/testeDrawable"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/nomePais"
+        android:layout_width="424dp"
+        android:layout_height="115dp"
+        android:layout_weight="@dimen/pesoTexto"
+        android:text="@string/nomePais"
+        android:textAllCaps="true"
+        app:autoSizeTextType="uniform"
+        app:fontFamily="@font/black_ops_one" />
+
+    <ImageView
+        android:id="@+id/bandeira"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/altura"
+        android:layout_weight="@dimen/pesoImagem"
+        android:contentDescription="@string/descriçãoBandeira"
+        app:srcCompat="@drawable/bandeira" />
+
+    <ImageView
+        android:id="@+id/comidaImagem"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/altura"
+        android:layout_weight="@dimen/pesoImagem"
+        android:contentDescription="@string/descriçãoComida"
+        app:srcCompat="@drawable/comida" />
+
+    <TextView
+        android:id="@+id/comida"
+        android:layout_width="match_parent"
+        android:layout_height="158dp"
+        android:layout_weight="@dimen/pesoTexto"
+        android:text="@string/comida"
+        app:autoSizeTextType="uniform"
+        app:fontFamily="@font/black_ops_one" />
+
+</LinearLayout>

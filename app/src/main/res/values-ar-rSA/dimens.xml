@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="largura" type="dimen">match_parent%</item>
+    <dimen name="altura">248dp</dimen>
+    <dimen name="pesoTexto">1</dimen>
+    <dimen name="pesoImagem">2</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nomePais">Ελλάδα</string>
+    <string name="bandeira">Ελλάδα σημαία</string>
+    <string name="comida">Μουσάκα</string>
+    <string name="descriçãoBandeira">Ελλάδα σημαία</string>
+    <string name="descriçãoComida">Μουσάκα</string>
+</resources>

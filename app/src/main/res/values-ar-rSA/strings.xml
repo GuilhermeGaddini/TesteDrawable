@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bandeira">علم العرب</string>
+    <string name="comida">التبولة</string>
+    <string name="nomePais">المملكة العربية السعودية</string>
+    <string name="descriçãoBandeira">علم العرب</string>
+    <string name="descriçãoComida">التبولة</string>
+
+</resources>

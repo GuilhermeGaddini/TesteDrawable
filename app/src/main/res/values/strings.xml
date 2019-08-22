@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">TesteDrawable</string>
+    <string name="bandeira">Bandeira Brasil</string>
+    <string name="comida">Feijoada</string>
+    <string name="nomePais">Brasil</string>
+    <string name="descriçãoBandeira">Bandeira do Brasil</string>
+    <string name="descriçãoComida">Feijoada</string>
+</resources>

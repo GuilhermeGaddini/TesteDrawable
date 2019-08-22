@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nomePais">Italia</string>
+    <string name="bandeira">Bandiera italia</string>
+    <string name="comida">Spaghetti</string>
+    <string name="descriçãoBandeira">Bandiera italia</string>
+    <string name="descriçãoComida">Spaghetti</string>
+</resources>
